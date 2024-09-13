@@ -5,4 +5,4 @@ def personal_information():
     print('Undecided')
 
 # Line which calls the above function.
-    personal_information()
+personal_information()
