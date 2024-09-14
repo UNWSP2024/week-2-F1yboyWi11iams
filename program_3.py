@@ -1,4 +1,3 @@
-def calculate_total_purchase():
     # A customer in a store is purchasing five items.  
     # Write a program that asks for each item, 
     # then displays the subtotal of the sale, 
@@ -33,6 +32,5 @@ def calculate_total_purchase():
     sales_total = (item_subtotal + sales_tax)
     print('Sale Total: $', float(sales_total))
 
-calculate_total_purchase()
 
 calculate_total_purchase()
